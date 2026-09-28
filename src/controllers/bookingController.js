@@ -12,7 +12,7 @@ export async function getAllBookings(req, res, next) {
     // TODO
   } catch (err) { next(err); }
 }
-
+//sui
 // GET /api/bookings/:id
 // TODO: implement per README.md sections 3 and 5.
 export async function getBooking(req, res, next) {
